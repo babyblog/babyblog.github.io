@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Just testing a new post to baby blog
 
