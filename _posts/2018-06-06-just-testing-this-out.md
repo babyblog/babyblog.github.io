@@ -1,6 +1,7 @@
 ---
 published: true
+img: he-or-she.jpg
 ---
-## Just testing a new post to baby blog
+## Why does our baby have a blog?
 
-Want to see how this looks no photo first
+If you put the keyboard on your belly the baby might make his first post.
