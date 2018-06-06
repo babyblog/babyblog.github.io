@@ -9,9 +9,9 @@ url: "babyblog.github.io" # the base hostname & protocol for your site, e.g. htt
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: What's my name # add your name
+author: Our Baby # add your name
 author-img: baby.jpg # add your photo
-about-author: Who will I become. # add description
+about-author: What's my name? Who will I become? # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
