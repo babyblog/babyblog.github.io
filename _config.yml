@@ -8,6 +8,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "babyblog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
+# Prose Settings
+prose:
+  media: "assets/img/"
+
 # Author Settings
 author: Our Baby # add your name
 author-img: baby.jpg # add your photo
